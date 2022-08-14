@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_doc_website=self.webpackChunkreact_doc_website||[]).push([[7814],{4041:e=>{e.exports=JSON.parse('{"permalink":"/react-doc-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
