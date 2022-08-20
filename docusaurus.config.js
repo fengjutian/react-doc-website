@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'React Doc',
+        title: 'React Playground',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -68,8 +68,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'React',
           },
+          // {
+          //   type: 'dropdown', 
+          //   label: 'React Router v6', 
+          //   position: 'left', 
+          //   docId: 'introduction'
+          // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/fengjutian/react-doc-website/',
